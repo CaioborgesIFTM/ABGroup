@@ -1,0 +1,20 @@
+ABGROUP + UND — ARQUIVOS PRONTOS PARA PUBLICAR
+
+1. Extraia o ZIP antes de enviar os arquivos para a hospedagem.
+2. Envie TODO o conteúdo desta pasta para a pasta pública do site:
+   index.html
+   und.html
+   styles.css
+   und.css
+   script.js
+   assets/ (pasta inteira, com imagens, logos e fonte)
+3. Mantenha a pasta assets ao lado de index.html. Não renomeie a pasta
+   nem os arquivos que estão dentro dela: as páginas usam esses caminhos.
+4. Na hospedagem, abra o endereço do site. UND abre pelo menu da home.
+
+Para mostrar sem hospedagem: abra index.html no navegador após extrair
+o ZIP, mantendo todos os arquivos e a pasta assets juntos.
+
+Se a plataforma aceitar somente HTML colado em um editor, será necessário
+enviar também as imagens à biblioteca dessa plataforma e ajustar os caminhos.
+Este pacote é destinado à publicação completa de um site estático.
