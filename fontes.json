@@ -1,0 +1,768 @@
+{
+  "source": "https://www.abgroup.com.br/",
+  "assets": [
+    {
+      "index": 0,
+      "file": "assets/logo.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_bcf5b4820a504c10a4bdfd5438dc2f4d~mv2.png",
+      "originalAlt": "ABGROUP.png"
+    },
+    {
+      "index": 4,
+      "file": "assets/cliente-01.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_20446e10a93c447fa0e5ae2e3d55d6ec~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "FMC"
+    },
+    {
+      "index": 5,
+      "file": "assets/cliente-02.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_686e65536740400cacdd99f2d6143e58~mv2.jpg",
+      "originalAlt": "logo-ourofino-saude-animal.jpg",
+      "name": "Ourofino Saúde Animal"
+    },
+    {
+      "index": 6,
+      "file": "assets/cliente-03.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_083b8d3425344e338c3de1af923f0618~mv2.jpg",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.jpg",
+      "name": "Caramuru"
+    },
+    {
+      "index": 7,
+      "file": "assets/cliente-04.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_069cd58f66e040ad8fb2e018067df0b6~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Monsanto"
+    },
+    {
+      "index": 8,
+      "file": "assets/cliente-05.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_a8a8477c51154310adaec6be455a5aa4~mv2.png",
+      "originalAlt": "d28f3f40-7db6-4db8-9f1c-9096f4610eec.png",
+      "name": "ADM"
+    },
+    {
+      "index": 9,
+      "file": "assets/cliente-06.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_7d8d66d7c171420a9bfab8998004f4d2~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Alpargatas"
+    },
+    {
+      "index": 10,
+      "file": "assets/cliente-07.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_27377db5520e41378d4e9c1284367eaf~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "3 Corações"
+    },
+    {
+      "index": 11,
+      "file": "assets/cliente-08.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_6b8765f4fdd04727be22e9d9658a6619~mv2.png",
+      "originalAlt": "Nestlé_logo.svg.png",
+      "name": "Nestlé"
+    },
+    {
+      "index": 12,
+      "file": "assets/cliente-09.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_6731fd71257e4ddb9bc068aa418aa031~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com3.png",
+      "name": "Danone"
+    },
+    {
+      "index": 13,
+      "file": "assets/cliente-10.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_309e94a832ec488795d0c6dd23bb98d4~mv2.jpg",
+      "originalAlt": "1595858364695.jpg",
+      "name": "Unilever"
+    },
+    {
+      "index": 14,
+      "file": "assets/cliente-11.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_7356aba534e4428fa730bb69e92fefad~mv2.png",
+      "originalAlt": "Martins-logo-43DA66C84E-seeklogo.com.png",
+      "name": "Martins"
+    },
+    {
+      "index": 15,
+      "file": "assets/cliente-12.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_a3589ad6987b47b09ac05cfebdca286e~mv2.png",
+      "originalAlt": "logo.png",
+      "name": "Distribuidora Estrela"
+    },
+    {
+      "index": 16,
+      "file": "assets/cliente-13.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_b65aeef4c917421d8e36be31b04d5f74~mv2.webp",
+      "originalAlt": "logo___a93c820dc3586c1f1866be97e3fb1016.webp",
+      "name": "Dec Minas"
+    },
+    {
+      "index": 17,
+      "file": "assets/cliente-14.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_e33f57e70dfe4d9e8d92babaa4839a5f~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Pennacchi"
+    },
+    {
+      "index": 18,
+      "file": "assets/cliente-15.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_648c17b55c1d45709d0d13ee6baf2c5c~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "JC Distribuição"
+    },
+    {
+      "index": 19,
+      "file": "assets/cliente-16.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_bf5af514412a4705be197333787eca44~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Mix Alimentos"
+    },
+    {
+      "index": 20,
+      "file": "assets/cliente-17.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_c86a5a57b8604d9eb7c306908ce684bb~mv2.png",
+      "originalAlt": "Sem Título-5.png",
+      "name": "MegaG"
+    },
+    {
+      "index": 21,
+      "file": "assets/cliente-18.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_2356233b48b74f6a9cb1c26d832f8b0b~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "KarneKeijo"
+    },
+    {
+      "index": 22,
+      "file": "assets/cliente-19.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_06edc91623054b69831a77bf5f4f725e~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Medeiros Distribuidora"
+    },
+    {
+      "index": 23,
+      "file": "assets/cliente-20.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_608102f648914ef2a1aa93d8e64b442b~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Bidfood"
+    },
+    {
+      "index": 24,
+      "file": "assets/cliente-21.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_deef38f5456d40e38fd31ec8e17d6537~mv2.jpg",
+      "originalAlt": "erlan.jpg",
+      "name": "Disdal"
+    },
+    {
+      "index": 25,
+      "file": "assets/cliente-22.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_d8dee53e635445fabd7bbc7c3a771078~mv2.jpg",
+      "originalAlt": "okajima.jpg",
+      "name": "Okajima Distribuidora"
+    },
+    {
+      "index": 26,
+      "file": "assets/cliente-23.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_4948f385143a450ebc728de500f495dd~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Braveo"
+    },
+    {
+      "index": 27,
+      "file": "assets/cliente-24.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_d4771efca0534d279dd0c7041719e2b0~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Dunorte"
+    },
+    {
+      "index": 28,
+      "file": "assets/cliente-25.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_f4e8b094da754e2c91a99f3d42f2d2ab~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Cardeal Distribuidora"
+    },
+    {
+      "index": 29,
+      "file": "assets/cliente-26.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_c27b599a859147198b42d8da2c134073~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Tambasa Atacadistas"
+    },
+    {
+      "index": 30,
+      "file": "assets/cliente-27.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_496a89bd5e104276a521e88ddd59c1bd~mv2.png",
+      "originalAlt": "cafe-3-coracoes-logo-F1813EF79B-seeklogo.com.png",
+      "name": "Bartofil Distribuidora"
+    },
+    {
+      "index": 31,
+      "file": "assets/cliente-28.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_873d65d221ae4ffbb02703a217a61cad~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Condor"
+    },
+    {
+      "index": 32,
+      "file": "assets/cliente-29.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_5a2188e0b82b429f971cc2b9d892e642~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Casacardão"
+    },
+    {
+      "index": 33,
+      "file": "assets/cliente-30.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_2bdb934e080e4acea9fd2cbd73af9986~mv2.png",
+      "originalAlt": "images ok.png",
+      "name": "Distac Distribuidora"
+    },
+    {
+      "index": 34,
+      "file": "assets/cliente-31.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_f74615b08c7943a3b7fc40b7d95ddade~mv2.png",
+      "originalAlt": "images2.png",
+      "name": "Gralminas Distribuidora"
+    },
+    {
+      "index": 35,
+      "file": "assets/cliente-32.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_25b0c7833863463b83a534ec0a58833d~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Tripet"
+    },
+    {
+      "index": 36,
+      "file": "assets/cliente-33.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_dafc1f409b0b4285b96a3a21e32ba923~mv2.png",
+      "originalAlt": "images.png",
+      "name": "ACJ Distribuidora"
+    },
+    {
+      "index": 37,
+      "file": "assets/cliente-34.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_4d6bde5dcb2b45b49f93d8b9c3d85b7f~mv2.png",
+      "originalAlt": "images2[.png",
+      "name": "Nutri Pet"
+    },
+    {
+      "index": 38,
+      "file": "assets/cliente-35.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_80ce134db1c44b17a4488258c6d34fd5~mv2.png",
+      "originalAlt": "images (4).png",
+      "name": "Pessoa"
+    },
+    {
+      "index": 39,
+      "file": "assets/cliente-36.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_8638a81136574f958c5235a06a13d512~mv2.png",
+      "originalAlt": "images.png",
+      "name": "ABC"
+    },
+    {
+      "index": 40,
+      "file": "assets/cliente-37.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_6f91c9bf762f40528b9f795f139aa382~mv2.png",
+      "originalAlt": "marca-bahamas-nova.png",
+      "name": "Bahamas"
+    },
+    {
+      "index": 41,
+      "file": "assets/cliente-38.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_3afbd1c1e43c4dd7ba3bee87306dfd9f~mv2.png",
+      "originalAlt": "images (5).png",
+      "name": "Super Muffato"
+    },
+    {
+      "index": 42,
+      "file": "assets/cliente-39.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_08a26ad6c2cf4aa19a601ff57511dfd8~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Zona Sul"
+    },
+    {
+      "index": 43,
+      "file": "assets/cliente-40.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_62400466653e420bbe3e3a00e3c4d0e8~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Super Nosso"
+    },
+    {
+      "index": 44,
+      "file": "assets/cliente-41.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_e31b822fd637440f98abd010680e0ea9~mv2.png",
+      "originalAlt": "images5.png",
+      "name": "Loja Elétrica"
+    },
+    {
+      "index": 45,
+      "file": "assets/cliente-42.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_54dd61978b9a4f049733328bc911ec78~mv2.png",
+      "originalAlt": "images5.png",
+      "name": "Arezzo"
+    },
+    {
+      "index": 46,
+      "file": "assets/cliente-43.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_1287774ccbda4d6897c2279cd9ef0ab3~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Havan"
+    },
+    {
+      "index": 47,
+      "file": "assets/cliente-44.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_7654cb7921184484b9bf5313704b8d83~mv2.png",
+      "originalAlt": "images.png",
+      "name": "C&A"
+    },
+    {
+      "index": 48,
+      "file": "assets/cliente-45.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_7cc03f2cffea4e048ff52ee79bfbe71a~mv2.png",
+      "originalAlt": "logo-lojas-cem.png",
+      "name": "Lojas Cem"
+    },
+    {
+      "index": 49,
+      "file": "assets/cliente-46.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_de28f66cc0194972a5b9b02255cc92c0~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Bravo Serviços Logísticos"
+    },
+    {
+      "index": 50,
+      "file": "assets/cliente-47.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_85e41f27f94244e7a5e41d027929579b~mv2.png",
+      "originalAlt": "images8.png",
+      "name": "Grupo Imediato"
+    },
+    {
+      "index": 51,
+      "file": "assets/cliente-48.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_a180eaa3125e41b7b7718195e5cd601e~mv2.png",
+      "originalAlt": "images.png",
+      "name": "Grupo Mirassol"
+    },
+    {
+      "index": 52,
+      "file": "assets/cliente-49.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_2095281855d944bf9a53c29f67a4561e~mv2.png",
+      "originalAlt": "images5.png",
+      "name": "Comfrio"
+    },
+    {
+      "index": 53,
+      "file": "assets/cliente-50.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_6d276fa37ab84761a830539d3912a5d9~mv2.png",
+      "originalAlt": "images555.png",
+      "name": "Penske"
+    },
+    {
+      "index": 54,
+      "file": "assets/cliente-51.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_cdd96b6a8a84409cae9d11f65c8f0a59~mv2.png",
+      "originalAlt": "dec_eldorado site ab.png",
+      "name": "DEC Eldorado"
+    },
+    {
+      "index": 55,
+      "file": "assets/cliente-52.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_2e8b63a787c54dd98439b3c34dee1af1~mv2.png",
+      "originalAlt": "dismelo ab.png",
+      "name": "Dismelo"
+    },
+    {
+      "index": 56,
+      "file": "assets/cliente-53.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_33daaac633ae4d5f9f018a8f48fcb723~mv2.png",
+      "originalAlt": "zamoni ab.png",
+      "name": "Zamboni"
+    },
+    {
+      "index": 57,
+      "file": "assets/cliente-54.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_05d147ae36b9435a85109f6f3ebceb38~mv2.png",
+      "originalAlt": "roge ab.png",
+      "name": "Roge"
+    },
+    {
+      "index": 58,
+      "file": "assets/cliente-55.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_1613ac88b84c48459bfaae2cd448ca61~mv2.png",
+      "originalAlt": "riograndense ab.png",
+      "name": "Riograndense Distribuidora"
+    },
+    {
+      "index": 60,
+      "file": "assets/consultoria.webp",
+      "source": "https://static.wixstatic.com/media/9cae53_409d85bb4a28417c804fba679b1b1cf7~mv2.jpg",
+      "originalAlt": "pessoas-caminhar-na-fabrica_edited.jpg"
+    },
+    {
+      "index": 63,
+      "file": "assets/clair-dalberto.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_db5b553794e44723840fd75db4b10886f002.jpg",
+      "originalAlt": "Clair Dalberto"
+    },
+    {
+      "index": 64,
+      "file": "assets/tacio-greco.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_511fe87cb73e4f73af52dedf2e92efb9f002.jpg",
+      "originalAlt": "Tácio Greco"
+    },
+    {
+      "index": 66,
+      "file": "assets/logo-footer.webp",
+      "source": "https://static.wixstatic.com/media/0c2907_9d87d638d263422e834c5826ffdfc3a6~mv2.png",
+      "originalAlt": "ABGROUP CONSULTORIA.png"
+    },
+    {
+      "file": "assets/vagas.webp",
+      "source": "https://static.wixstatic.com/media/9cae53_b957924ca0fa4c0892c82a9cf68fb5a2~mv2.jpg",
+      "originalAlt": "retrato-de-homem-negocios-sorrindo.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Clair Dalberto",
+      "role": "Diretor Presidente da Disdal",
+      "file": "clair-dalberto",
+      "id": "0c2907_db5b553794e44723840fd75db4b10886",
+      "source": "https://www.abgroup.com.br/#comp-lxkmik9t"
+    },
+    {
+      "name": "Tácio Greco",
+      "role": "Diretor de Operações do Grupo IGL",
+      "file": "tacio-greco",
+      "id": "0c2907_511fe87cb73e4f73af52dedf2e92efb9",
+      "source": "https://www.abgroup.com.br/#comp-lxkmik9t"
+    }
+  ],
+  "contact": "https://wa.me/553484148442",
+  "segments": [
+    {
+      "name": "Agronegócio",
+      "files": [
+        "assets/cliente-01.webp",
+        "assets/cliente-02.webp",
+        "assets/cliente-03.webp",
+        "assets/cliente-04.webp",
+        "assets/cliente-05.webp"
+      ]
+    },
+    {
+      "name": "Indústria",
+      "files": [
+        "assets/cliente-06.webp",
+        "assets/cliente-07.webp",
+        "assets/cliente-08.webp",
+        "assets/cliente-09.webp",
+        "assets/cliente-10.webp"
+      ]
+    },
+    {
+      "name": "Atacadistas",
+      "files": [
+        "assets/cliente-11.webp",
+        "assets/cliente-12.webp",
+        "assets/cliente-13.webp",
+        "assets/cliente-14.webp",
+        "assets/cliente-15.webp"
+      ]
+    },
+    {
+      "name": "Distribuidores Food Service",
+      "files": [
+        "assets/cliente-16.webp",
+        "assets/cliente-17.webp",
+        "assets/cliente-18.webp",
+        "assets/cliente-19.webp",
+        "assets/cliente-20.webp"
+      ]
+    },
+    {
+      "name": "Distribuidores Exclusivos da Indústria",
+      "files": [
+        "assets/cliente-21.webp",
+        "assets/cliente-22.webp",
+        "assets/cliente-23.webp",
+        "assets/cliente-24.webp",
+        "assets/cliente-25.webp"
+      ]
+    },
+    {
+      "name": "Distribuidores Materiais de Construção",
+      "files": [
+        "assets/cliente-26.webp",
+        "assets/cliente-27.webp",
+        "assets/cliente-28.webp",
+        "assets/cliente-29.webp",
+        "assets/cliente-30.webp"
+      ]
+    },
+    {
+      "name": "Distribuidores PET",
+      "files": [
+        "assets/cliente-31.webp",
+        "assets/cliente-32.webp",
+        "assets/cliente-33.webp",
+        "assets/cliente-34.webp",
+        "assets/cliente-35.webp"
+      ]
+    },
+    {
+      "name": "Varejo Alimentar",
+      "files": [
+        "assets/cliente-36.webp",
+        "assets/cliente-37.webp",
+        "assets/cliente-38.webp",
+        "assets/cliente-39.webp",
+        "assets/cliente-40.webp"
+      ]
+    },
+    {
+      "name": "Varejo Não Alimentar",
+      "files": [
+        "assets/cliente-41.webp",
+        "assets/cliente-42.webp",
+        "assets/cliente-43.webp",
+        "assets/cliente-44.webp",
+        "assets/cliente-45.webp"
+      ]
+    },
+    {
+      "name": "Operador Logístico",
+      "files": [
+        "assets/cliente-46.webp",
+        "assets/cliente-47.webp",
+        "assets/cliente-48.webp",
+        "assets/cliente-49.webp",
+        "assets/cliente-50.webp"
+      ]
+    },
+    {
+      "name": "Distribuidores Especializados",
+      "files": [
+        "assets/cliente-51.webp",
+        "assets/cliente-52.webp",
+        "assets/cliente-53.webp",
+        "assets/cliente-54.webp",
+        "assets/cliente-55.webp"
+      ]
+    }
+  ],
+  "careers": {
+    "source": "https://www.abgroup.com.br/",
+    "destination": "https://abgroup.vagas.solides.com.br/"
+  },
+  "hr": {
+    "source": "https://www.abgroup.com.br/",
+    "services": [
+      "Recrutamento e Seleção de Executivos",
+      "Análise de Perfil Comportamental",
+      "Treinamento",
+      "Desenvolvimento de Lideranças",
+      "Estruturação de Cargos e Salários"
+    ],
+    "contact": "https://wa.me/553484148442"
+  },
+  "typography": {
+    "name": "Manrope",
+    "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+    "license": "assets/manrope-license.txt",
+    "file": "assets/manrope-variable.ttf"
+  },
+  "und": {
+    "source": "https://www.abgroup.com.br/parceiros",
+    "contact": "https://wa.me/5534984148442",
+    "studentPortal": "https://undbrasil.cadernovirtual.com.br/aluno/login",
+    "courses": [
+      {
+        "code": "GL",
+        "title": "Gerência de Logística",
+        "description": "Desenvolva habilidades de liderança na gestão de operações logísticas, otimizando processos e melhorando a eficiência da cadeia de suprimentos.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_317acfc0cd3d410ca4d1fe55db1413eb.pdf"
+      },
+      {
+        "code": "PCL",
+        "title": "Planejamento e Controle Logístico",
+        "description": "Aprenda a planejar e controlar as operações logísticas, integrando diversos elementos da cadeia de suprimentos para um fluxo eficiente de mercadorias.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_f5a65b41f4474b708cdfd718cd8b543d.pdf"
+      },
+      {
+        "code": "CD",
+        "title": "Centro de Distribuição",
+        "description": "Aprenda técnicas essenciais para a operação e gestão de centros de distribuição, focando em armazenamento, manuseio e movimentação de mercadorias.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_8ee6ec86f0504ed8b6036690d0092d4f.pdf"
+      },
+      {
+        "code": "PCEP",
+        "title": "Planejamento e Controle de Estoques e Perdas",
+        "description": "Domine estratégias para o planejamento e controle de estoques, minimizando perdas e maximizando a eficiência operacional.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_77a56d6ed7eb47c8ac231da5afe74c5e.pdf"
+      },
+      {
+        "code": "TS",
+        "title": "Transportes",
+        "description": "Explore os diferentes modos de transporte e suas aplicações, otimizando rotas e garantindo a entrega eficiente e segura de mercadorias.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_467bf02b47314fae9b6c809149f2e7d0.pdf"
+      },
+      {
+        "code": "CS",
+        "title": "Customer Service",
+        "description": "Melhore a experiência do cliente através de técnicas avançadas de atendimento e gestão de relacionamento, garantindo satisfação e fidelidade.",
+        "program": "https://www.abgroup.com.br/_files/ugd/9cae53_def13a4d082d46ebb727cbad98011ffc.pdf"
+      }
+    ],
+    "assets": [
+      {
+        "index": 3,
+        "file": "assets/und-logo.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_bae5c2afb74c40319fa4dc244dfe173a~mv2.png",
+        "originalAlt": "und_Prancheta 1.png",
+        "width": 1862,
+        "height": 607
+      },
+      {
+        "index": 4,
+        "file": "assets/und-instituicao-01.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_a7fcff89b04b451d9737a416669e9a11~mv2.png",
+        "originalAlt": "logo-abad-topo.png",
+        "width": 217,
+        "height": 223,
+        "name": "ABAD"
+      },
+      {
+        "index": 5,
+        "file": "assets/und-instituicao-02.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_edc7dee7cb9642e894cb2887835261b7~mv2.jpg",
+        "originalAlt": "abras-sem-texto-01.jpg",
+        "width": 2512,
+        "height": 823,
+        "name": "ABRAS"
+      },
+      {
+        "index": 6,
+        "file": "assets/und-instituicao-03.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_e00b9043710f4dd7bd24c6c0614f56a7~mv2.png",
+        "originalAlt": "images (3).png",
+        "width": 225,
+        "height": 225,
+        "name": "FUNDACE USP"
+      },
+      {
+        "index": 7,
+        "file": "assets/und-instituicao-04.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_9e56cd5ee10e4ce893fad454d87e7be2~mv2.webp",
+        "originalAlt": "-59cce952b5c14.webp",
+        "width": 600,
+        "height": 350,
+        "name": "UnB"
+      },
+      {
+        "index": 8,
+        "file": "assets/und-instituicao-05.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_31ed3fc148c8472d9793b8e411562752~mv2.jpg",
+        "originalAlt": "1631333885164 (1).jpg",
+        "width": 200,
+        "height": 200,
+        "name": "Unitri"
+      },
+      {
+        "index": 9,
+        "file": "assets/und-instituicao-06.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_7d67906badc6404e9ca89a45af42c1f6~mv2.png",
+        "originalAlt": "FADE.png",
+        "width": 696,
+        "height": 398,
+        "name": "FADE"
+      },
+      {
+        "index": 10,
+        "file": "assets/und-instituicao-07.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_7ae84c37d05b44acbcc402f560305cf0~mv2.png",
+        "originalAlt": "images (4).png",
+        "width": 200,
+        "height": 200,
+        "name": "UFU"
+      },
+      {
+        "index": 11,
+        "file": "assets/und-instituicao-08.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_f80bdd20ccb0446a9f73ea4ed66c0e09~mv2.png",
+        "originalAlt": "images (5).png",
+        "width": 329,
+        "height": 153,
+        "name": "ESAMC"
+      },
+      {
+        "index": 12,
+        "file": "assets/und-instituicao-09.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_abc969647b9c4423ba151e2584d67111~mv2.png",
+        "originalAlt": "images4.png",
+        "width": 301,
+        "height": 167,
+        "name": "Sebrae"
+      },
+      {
+        "index": 13,
+        "file": "assets/und-instituicao-10.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_80a210e8f4684c7a978d4ad441c48805~mv2.png",
+        "originalAlt": "logo (2).png",
+        "width": 250,
+        "height": 108,
+        "name": "ABIA"
+      },
+      {
+        "index": 14,
+        "file": "assets/und-instituicao-11.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_673acec435c845048c05ad24ef444e5f~mv2.png",
+        "originalAlt": "images (7).png",
+        "width": 387,
+        "height": 130,
+        "name": "CIESP"
+      },
+      {
+        "index": 15,
+        "file": "assets/und-instituicao-12.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_6779bd812b59475ba2f76be258e48b63~mv2.webp",
+        "originalAlt": "abralog-logo-header.webp",
+        "width": 272,
+        "height": 90,
+        "name": "ABRALOG"
+      },
+      {
+        "index": 16,
+        "file": "assets/und-instituicao-13.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_a638820fa0764ae889a9fa8d07cd3f64~mv2.png",
+        "originalAlt": "imagesYYY.png",
+        "width": 301,
+        "height": 167,
+        "name": "Fecomércio"
+      },
+      {
+        "index": 17,
+        "file": "assets/und-formacao.webp",
+        "source": "https://static.wixstatic.com/media/9cae53_e6d2aa3210ce4fe2ada90ff4eb545dcb~mv2.png",
+        "originalAlt": "4 copiar 4.png",
+        "width": 369,
+        "height": 129
+      },
+      {
+        "index": 20,
+        "file": "assets/und-instrutor.webp",
+        "source": "https://static.wixstatic.com/media/0c2907_df2238bc802d472684b797cafca5561e~mv2.png",
+        "originalAlt": "Prancheta 1.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "instructor": {
+      "name": "Altamiro Carlos Borges Júnior",
+      "linkedin": "https://www.linkedin.com/in/altamiro-borges-26b9415/",
+      "experience": "mais de 30 anos",
+      "students": "mais de 60 mil alunos"
+    },
+    "notes": "Dados do instrutor reproduzem a página UND; os números institucionais da home ABGroup foram preservados. Contato por WhatsApp oficial, sem simular envio de formulário."
+  }
+}

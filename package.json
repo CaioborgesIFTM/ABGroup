@@ -1,0 +1,10 @@
+{
+  "name": "abgroup-home",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Home ABGroup em HTML, CSS e JavaScript sem dependências",
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
